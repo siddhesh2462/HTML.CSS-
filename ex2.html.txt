@@ -1,0 +1,25 @@
+<html>
+<head> 
+	<title> my college </title> 
+	</head>
+<body>
+	<h2>1. write a html code to genrate the following output<h2>
+<ol type="1">
+<li>undergraduate courses</li>
+</ol>
+<ol type="i">
+<li>BBA(CA)</li>
+<li>BCA(SCIENCE)</li>
+<li>BSC(COMPUTER SCIENCE)</LI>
+</ol>
+<ol type="2">
+<li>post graduate cource</li>
+<ol type="i">
+<li>msc (science)</li>
+<li>msc(ca)</li>
+<li>mca</li>
+</ol>
+
+
+</body>
+</html>
